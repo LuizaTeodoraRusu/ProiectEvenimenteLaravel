@@ -45,13 +45,11 @@
         </form>
     </div>
 
-<div class="contact-info">
+<!-- <div class="contact-info">
     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
     <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
     <a href="https://www.tiktok.com/" target="_blank"><i class="fab fa-tiktok"></i></a>
-    
-
-</div>
+</div> -->
 
 <div class="footer">
     <p>eventica@email.com</p>
